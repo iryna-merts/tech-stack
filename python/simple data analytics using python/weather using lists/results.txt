@@ -1,0 +1,122 @@
+Maximum temperature in 01.10.20 is 25*C in Kyiv Odessa 
+
+Most common wind direction is: S
+
+
+Weather in Lviv:
+
+Date:01.10.20, time:03:00, temperature:5, pressure:767, wind:SW
+
+Date:01.10.20, time:09:00, temperature:16, pressure:763, wind:S
+
+Date:01.10.20, time:15:00, temperature:18, pressure:766, wind:S
+
+Date:01.10.20, time:21:00, temperature:14, pressure:768, wind:none
+
+Date:02.10.20, time:03:00, temperature:7, pressure:764, wind:S
+
+Date:02.10.20, time:09:00, temperature:12, pressure:765, wind:SW
+
+Date:02.10.20, time:15:00, temperature:19, pressure:762, wind:SW
+
+Date:02.10.20, time:21:00, temperature:15, pressure:761, wind:SW
+
+Date:03.10.20, time:03:00, temperature:9, pressure:765, wind:W
+
+Date:03.10.20, time:09:00, temperature:17, pressure:767, wind:W
+
+Date:03.10.20, time:15:00, temperature:20, pressure:764, wind:SW
+
+Date:03.10.20, time:21:00, temperature:15, pressure:763, wind:W
+
+Maximum temperature in Lviv is 20*C in 03.10.20 
+
+Weather in 01.10.20:
+
+City:Lviv time:03:00, temperature:5, pressure:767, wind:SW
+
+City:Lviv time:09:00, temperature:16, pressure:763, wind:S
+
+City:Lviv time:15:00, temperature:18, pressure:766, wind:S
+
+City:Lviv time:21:00, temperature:14, pressure:768, wind:none
+
+City:Kyiv time:03:00, temperature:2, pressure:760, wind:W
+
+City:Kyiv time:09:00, temperature:9, pressure:764, wind:none
+
+City:Kyiv time:15:00, temperature:16, pressure:763, wind:S
+
+City:Kyiv time:21:00, temperature:12, pressure:761, wind:S
+
+City:Odessa time:03:00, temperature:10, pressure:762, wind:S
+
+City:Odessa time:09:00, temperature:14, pressure:762, wind:none
+
+City:Odessa time:15:00, temperature:21, pressure:762, wind:SE
+
+City:Odessa time:21:00, temperature:17, pressure:762, wind:S
+
+Maximum temperature in 01.10.20 is 21*C in Odessa 
+
+Maximum temperature in 01.10.20 is 25*C in Kyiv Odessa 
+
+Most common wind direction is: S
+
+
+Weather in Lviv:
+
+Date:01.10.20, time:03:00, temperature:5, pressure:767, wind:SW
+
+Date:01.10.20, time:09:00, temperature:16, pressure:763, wind:S
+
+Date:01.10.20, time:15:00, temperature:18, pressure:766, wind:S
+
+Date:01.10.20, time:21:00, temperature:14, pressure:768, wind:none
+
+Date:02.10.20, time:03:00, temperature:7, pressure:764, wind:S
+
+Date:02.10.20, time:09:00, temperature:12, pressure:765, wind:SW
+
+Date:02.10.20, time:15:00, temperature:19, pressure:762, wind:SW
+
+Date:02.10.20, time:21:00, temperature:15, pressure:761, wind:SW
+
+Date:03.10.20, time:03:00, temperature:9, pressure:765, wind:W
+
+Date:03.10.20, time:09:00, temperature:17, pressure:767, wind:W
+
+Date:03.10.20, time:15:00, temperature:20, pressure:764, wind:SW
+
+Date:03.10.20, time:21:00, temperature:15, pressure:763, wind:W
+
+Maximum temperature in Lviv is 20*C in 03.10.20 
+
+Weather in 01.10.20:
+
+City:Lviv time:03:00, temperature:5, pressure:767, wind:SW
+
+City:Lviv time:09:00, temperature:16, pressure:763, wind:S
+
+City:Lviv time:15:00, temperature:18, pressure:766, wind:S
+
+City:Lviv time:21:00, temperature:14, pressure:768, wind:none
+
+City:Kyiv time:03:00, temperature:2, pressure:760, wind:W
+
+City:Kyiv time:09:00, temperature:9, pressure:764, wind:none
+
+City:Kyiv time:15:00, temperature:16, pressure:763, wind:S
+
+City:Kyiv time:21:00, temperature:12, pressure:761, wind:S
+
+City:Odessa time:03:00, temperature:10, pressure:762, wind:S
+
+City:Odessa time:09:00, temperature:14, pressure:762, wind:none
+
+City:Odessa time:15:00, temperature:21, pressure:762, wind:SE
+
+City:Odessa time:21:00, temperature:17, pressure:762, wind:S
+
+Maximum temperature in 01.10.20 is 21*C in Odessa 
+
